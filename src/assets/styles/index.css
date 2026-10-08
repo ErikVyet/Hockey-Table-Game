@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+    --font-jura: "Jura", sans-serif;
+    --font-orbitron: "Orbitron", sans-serif;
+}
